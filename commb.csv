@@ -1,0 +1,173 @@
+symbol,date,price
+Carbon,Jan 1970,369509
+Carbon,Jan 1971,430620
+Carbon,Jan 1972,303300
+Carbon,Jan 1973,356299
+Carbon,Jan 1974,357752
+Carbon,Jan 1975,48135
+Carbon,Jan 1976,184737
+Carbon,Jan 1977,252342
+Carbon,Jan 1978,226573
+Carbon,Jan 1979,342034
+Carbon,Jan 1980,408355
+Carbon,Jan 1981,433346
+Carbon,Jan 1982,333600
+Carbon,Jan 1983,392972
+Carbon,Jan 1984,200104
+Carbon,Jan 1985,223111
+Carbon,Jan 1986,154424
+Carbon,Jan 1987,320436
+Carbon,Jan 1988,451157
+Carbon,Jan 1989,233034
+Carbon,Jan 1990,154424
+Carbon,Jan 1991,289202
+Carbon,Jan 1992,240930
+Carbon,Jan 1993,332827
+Carbon,Jan 1994,907375
+Carbon,Jan 1995,709953
+Carbon,Jan 1996,554010
+Carbon,Jan 1997,401265
+Carbon,Jan 1998,427865
+Carbon,Jan 1999,541576
+Carbon,Jan 2000,489935
+Carbon,Jan 2001,224243
+Carbon,Jan 2002,64818
+Carbon,Jan 2003,71254
+Carbon,Jan 2004,357926
+Carbon,Jan 2005,610124
+Carbon,Jan 2006,553634
+Carbon,Jan 2007,589120
+Carbon,Jan 2008,803416
+Carbon,Jan 2009,714734
+Carbon,Jan 2010,786507
+Carbon,Jan 2011,998592
+Carbon,Jan 2012,962571
+Biodisel,Jan 1970,0
+Biodisel,Jan 1971,0
+Biodisel,Jan 1972,0
+Biodisel,Jan 1973,0
+Biodisel,Jan 1974,0
+Biodisel,Jan 1975,0
+Biodisel,Jan 1976,0
+Biodisel,Jan 1977,0
+Biodisel,Jan 1978,0
+Biodisel,Jan 1979,0
+Biodisel,Jan 1980,0
+Biodisel,Jan 1981,0
+Biodisel,Jan 1982,0
+Biodisel,Jan 1983,0
+Biodisel,Jan 1984,0
+Biodisel,Jan 1985,0
+Biodisel,Jan 1986,0
+Biodisel,Jan 1987,0
+Biodisel,Jan 1988,0
+Biodisel,Jan 1989,0
+Biodisel,Jan 1990,0
+Biodisel,Jan 1991,0
+Biodisel,Jan 1992,0
+Biodisel,Jan 1993,0
+Biodisel,Jan 1994,0
+Biodisel,Jan 1995,0
+Biodisel,Jan 1996,0
+Biodisel,Jan 1997,0
+Biodisel,Jan 1998,0
+Biodisel,Jan 1999,0
+Biodisel,Jan 2000,0
+Biodisel,Jan 2001,0
+Biodisel,Jan 2002,0
+Biodisel,Jan 2003,0
+Biodisel,Jan 2004,0
+Biodisel,Jan 2005,0
+Biodisel,Jan 2006,0
+Biodisel,Jan 2007,0
+Biodisel,Jan 2008,0
+Biodisel,Jan 2009,0
+Biodisel,Jan 2010,2219
+Biodisel,Jan 2011,4802
+Biodisel,Jan 2012,34600
+Fuel oil,Jan 1970,2832054
+Fuel oil,Jan 1971,3064693
+Fuel oil,Jan 1972,3101383
+Fuel oil,Jan 1973,3348776
+Fuel oil,Jan 1974,2675159
+Fuel oil,Jan 1975,2491987
+Fuel oil,Jan 1976,2783667
+Fuel oil,Jan 1977,3157925
+Fuel oil,Jan 1978,2831420
+Fuel oil,Jan 1979,3111650
+Fuel oil,Jan 1980,2383473
+Fuel oil,Jan 1981,2220990
+Fuel oil,Jan 1982,1494907
+Fuel oil,Jan 1983,1514095
+Fuel oil,Jan 1984,1338105
+Fuel oil,Jan 1985,791848
+Fuel oil,Jan 1986,1007964
+Fuel oil,Jan 1987,1514052
+Fuel oil,Jan 1988,2494424
+Fuel oil,Jan 1989,1505040
+Fuel oil,Jan 1990,1007964
+Fuel oil,Jan 1991,1608793
+Fuel oil,Jan 1992,1482355
+Fuel oil,Jan 1993,1327511
+Fuel oil,Jan 1994,837471
+Fuel oil,Jan 1995,477557
+Fuel oil,Jan 1996,615478
+Fuel oil,Jan 1997,370704
+Fuel oil,Jan 1998,837071
+Fuel oil,Jan 1999,837775
+Fuel oil,Jan 2000,654149
+Fuel oil,Jan 2001,147163
+Fuel oil,Jan 2002,39975
+Fuel oil,Jan 2003,121677
+Fuel oil,Jan 2004,824480
+Fuel oil,Jan 2005,1127540
+Fuel oil,Jan 2006,1529303
+Fuel oil,Jan 2007,1868697
+Fuel oil,Jan 2008,2333536
+Fuel oil,Jan 2009,1597971
+Fuel oil,Jan 2010,2242762
+Fuel oil,Jan 2011,2612229
+Fuel oil,Jan 2012,2835521
+Gas Oil,Jan 1970,598250
+Gas Oil,Jan 1971,769947
+Gas Oil,Jan 1972,7016
+Gas Oil,Jan 1973,730236
+Gas Oil,Jan 1974,650502
+Gas Oil,Jan 1975,637889
+Gas Oil,Jan 1976,833676
+Gas Oil,Jan 1977,1038367
+Gas Oil,Jan 1978,777490
+Gas Oil,Jan 1979,971495
+Gas Oil,Jan 1980,698028
+Gas Oil,Jan 1981,589057
+Gas Oil,Jan 1982,577426
+Gas Oil,Jan 1983,591914
+Gas Oil,Jan 1984,577188
+Gas Oil,Jan 1985,476519
+Gas Oil,Jan 1986,437473
+Gas Oil,Jan 1987,30414
+Gas Oil,Jan 1988,307487
+Gas Oil,Jan 1989,381969
+Gas Oil,Jan 1990,437473
+Gas Oil,Jan 1991,530983
+Gas Oil,Jan 1992,392373
+Gas Oil,Jan 1993,302124
+Gas Oil,Jan 1994,251372
+Gas Oil,Jan 1995,212491
+Gas Oil,Jan 1996,190337
+Gas Oil,Jan 1997,103484
+Gas Oil,Jan 1998,135071
+Gas Oil,Jan 1999,121214
+Gas Oil,Jan 2000,113810
+Gas Oil,Jan 2001,83668
+Gas Oil,Jan 2002,71485
+Gas Oil,Jan 2003,77554
+Gas Oil,Jan 2004,128180
+Gas Oil,Jan 2005,94855
+Gas Oil,Jan 2006,203251
+Gas Oil,Jan 2007,728504
+Gas Oil,Jan 2008,761404
+Gas Oil,Jan 2009,867341
+Gas Oil,Jan 2010,1468923
+Gas Oil,Jan 2011,1811020
+Gas Oil,Jan 2012,1644058
